@@ -28,3 +28,7 @@ In the payment_method field, all values that were "Unknown" and "ERROR" where ca
 (b) price-per_unit = total_spent / quantity
 
 (c) quantity = total_spent / price_per_unit
+
+
+9. Link to the google sheets where the data was visualized 
+[click here](https://docs.google.com/spreadsheets/d/18gJR6PwbI9wZ9vrDHF5aPuexdUv47NJw1CMs_Jxvlgg/edit?usp=sharing)
